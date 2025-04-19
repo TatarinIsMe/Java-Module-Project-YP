@@ -33,6 +33,7 @@ public class Main {
                     }
                 } else {
                     System.out.println("Неккоректный ввод скорости");
+                    scanner.next();
                 }
             }
 
